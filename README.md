@@ -20,10 +20,10 @@ which is the phone app
 ### Arduino
 And "Visual Studio" (the Arduino software could have been used too) for
 ```
-Projet_ROBOT_android
+RobotGEII
 ```
 which is the robot part
 
 
 ## Hardware
-We explained about what we hade for this project in our [drive](https://google.com)
+We explained about what we hade for this project in our [drive](https://drive.google.com/open?id=1D5huaLAUc6L7YCDwuEYKyj4zuAJ_pIDJ)
