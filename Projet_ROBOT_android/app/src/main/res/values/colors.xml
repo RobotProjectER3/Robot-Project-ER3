@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="BlueLogoIUT">#10069F</color>
+    <color name="OrangeLogoGEII">#F58026</color>
+</resources>
