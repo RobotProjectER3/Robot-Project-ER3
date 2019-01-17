@@ -169,17 +169,13 @@ public class TreatmentApp extends AppCompatActivity {
         String strMG ;
 
 
-        if(iValMoteurGauche != 255){
-            iGauche_Retour = 510 - iValMoteurDroit;
-        }else{
-            iGauche_Retour = 255 ;
-        }
 
-        if(iValMoteurDroit != 255 ){
-            iDroite_Retour = 510 - iValMoteurGauche;
-        } else {
-            iDroite_Retour = 255;
-        }
+        iGauche_Retour = 510 - iValMoteurDroit;
+
+
+
+        iDroite_Retour = 510 - iValMoteurGauche;
+
 
 
 
