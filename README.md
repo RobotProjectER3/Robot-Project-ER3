@@ -1,6 +1,13 @@
 # Robot Project ER3
 
 This project was made by 6 GEII students from the IUT of Annecy (France)
+* Camille VIALLET
+* Quentin DEPEISSES
+* Alexy DUTATE
+* Esma CIRAK
+* Antoine PHILIPPE
+* Enzo BONNARD
+
 
 ## Introduction
 
@@ -26,4 +33,4 @@ which is the robot part
 
 
 ## Hardware
-We explained about what we hade for this project in our [drive](https://drive.google.com/open?id=1D5huaLAUc6L7YCDwuEYKyj4zuAJ_pIDJ)
+You can check out our [drive](https://drive.google.com/open?id=1D5huaLAUc6L7YCDwuEYKyj4zuAJ_pIDJ) for more information about the Robot.
